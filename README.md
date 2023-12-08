@@ -1,2 +1,2 @@
 # delya-demo
-this is github class
+this is github class..
